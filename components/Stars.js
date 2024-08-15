@@ -1,3 +1,3 @@
 export default function Stars(){
-    return <div>ShamsStar</div>;
+    return <div>ShamsStar is coming</div>;
 }
