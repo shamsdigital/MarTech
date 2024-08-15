@@ -1,3 +1,3 @@
-export default function Stars(){
-    return <div>ShamsStar is coming</div>;
+export default function Stars(props) {
+    return <div>{props.name} is coming</div>;
 }

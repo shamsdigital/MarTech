@@ -27,8 +27,8 @@ PLASMIC.registerComponent(Stars, {
   name: "Stars",
   props: {
     name: {
-      type: "string", // Or the appropriate data type for your name
-      defaultValue: "Default Name" // You can set a default value here
+      type: "string",
+      defaultValue: "ShamsStar" 
     }
   }
 });
